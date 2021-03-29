@@ -1,0 +1,100 @@
+{
+  "main": {
+    "name":"Paul Wilson",
+    "description":"Systems Engineer & Developer",
+    "image":"profilepic.png",
+    "bio":"I am a systems engineer who has worked in both private and public cloud.  I have a passion for building websites and applciations, working in the front end and back end.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "pwilson802@gmail.com"
+  },
+  "resume":{
+    "skillmessage":"These are the technical skills I am good at.  I am proficient at some while other I'm still learning.  I'd love to learn more",
+    "skills":[
+      {
+        "name":"Python",
+        "level":"75%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"70%"
+      },
+      {
+        "name":"Powershell",
+        "level":"70%"
+      },
+            {
+        "name":"AWS",
+        "level":"80%"
+      },
+      {
+        "name":"React",
+        "level":"66%"
+      },
+      {
+        "name":"CSS",
+        "level":"65%"
+      },
+      {
+        "name":"HTML",
+        "level":"70%"
+      },
+      {
+        "name":"Linux OS",
+        "level":"80%"
+      },
+      {
+        "name":"Window OS",
+        "level":"80%"
+      },
+      {
+        "name":"GIT",
+        "level":"60%"
+      },
+      {
+        "name":"Django",
+        "level":"25%"
+      },
+      {
+        "name":"Flask",
+        "level":"30%"
+      },
+      {
+        "name":"GraphQL",
+        "level":"10%"
+      }
+    ],
+    "otherSkills": ["NETWORKING", "SECURITY", "DNS", "DOCUMENTATION", "ITIL", "FIREWALLS", "LOAD BALANCING", "AUTHENTICATION"]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Covid19 NSW",
+        "category":"Health",
+        "image":"covid19.jpg",
+        "url":"https://covid19nsw.com",
+        "description": "I made this when the recent pandemic started. It is a Python Flask site running in an EC2 instance. Some pages include React for interactivity."
+      },
+      {
+        "title":"Couch Buddy",
+        "category":"Entertainment",
+        "image":"couchbuddy.jpg",
+        "url":"https://www.couchbuddy.info",
+        "description": "This is a NextJS React site hosted in Vercel. There is also a backend Python component that refreshes the data daily, with data in AWS S3 and Cloudfront."
+      },
+      {
+        "title":"The General Quiz",
+        "category":"Quiz",
+        "image":"thegeneralquiz.jpg",
+        "url":"https://thegeneralquiz.com",
+        "description": "This is hosted in AWS Amplify, utilising AppSync with GraphQL and DynamoDB. The website is created with React Native with the plan to make it into a mobile App. I also have an admin website for this that uses React with Cognito for authentication."
+      },
+      {
+        "title":"SnackBar Parking",
+        "category":"Blog",
+        "image":"snackbar.jpg",
+        "url":"https://snackbarparking.com",
+        "description": "I made this with Django and it is hosted at Heroku. It had a short creative life but it was helpful in learning Django."
+      }
+    ]
+  }
+}
