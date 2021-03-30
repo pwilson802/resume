@@ -3,12 +3,12 @@
     "name":"Paul Wilson",
     "description":"Systems Engineer & Developer",
     "image":"profilepic.png",
-    "bio":"I am a systems engineer who has worked in both private and public cloud.  I have a passion for building websites and applciations, working in the front end and back end.",
+    "bio":"I am a systems engineer who has worked in both private and public cloud.  I have a passion for building websites and applications, I enjoy in working in both the front end and back end.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "pwilson802@gmail.com"
   },
   "resume":{
-    "skillmessage":"These are the technical skills I am good at.  I am proficient at some while other I'm still learning.  I'd love to learn more",
+    "skillmessage":"These are the technical skills I am good at.  I am proficient in some while others I'm still learning.  I'd love to learn more.",
     "skills":[
       {
         "name":"Python",

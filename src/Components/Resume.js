@@ -75,7 +75,7 @@ class Resume extends Component {
           </div>
 
           <div className="nine columns main-col">
-            <p>These are some other skills I have in addition to the above technical skills.</p>
+            <p>These are some additional skills I find helpful in designing and building solutions.</p>
             <div className="otherskills-wrapper"> 
               {otherSkills}
               </div>
