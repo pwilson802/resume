@@ -3,8 +3,7 @@
     "name":"Paul Wilson",
     "description":"Systems Engineer & Developer",
     "image":"profilepic.png",
-    "bio":"I am a systems engineer who has worked in both private and public cloud.  I have a passion for building websites and applications, I enjoy in working in both the front end and back end.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"I am a systems engineer with over 10 years experience working in both private and public cloud.  I have a passion for building and working on the full stack of websites and applications.  Check out some of my skills and creations below.",
     "email": "pwilson802@gmail.com"
   },
   "resume":{
@@ -79,14 +78,14 @@
         "category":"Entertainment",
         "image":"couchbuddy.jpg",
         "url":"https://www.couchbuddy.info",
-        "description": "This is a NextJS React site hosted in Vercel. There is also a backend Python component that refreshes the data daily, with data in AWS S3 and Cloudfront."
+        "description": "This is built with NextJS and hosted in Vercel. There is also a backend Python component that refreshes the data daily, with data in AWS S3 and Cloudfront."
       },
       {
         "title":"The General Quiz",
         "category":"Quiz",
         "image":"thegeneralquiz.jpg",
         "url":"https://thegeneralquiz.com",
-        "description": "This is hosted in AWS Amplify, utilising AppSync with GraphQL and DynamoDB. The website is created with React Native with the plan to make it into a mobile App. I also have an admin website for this that uses React with Cognito for authentication."
+        "description": "This is hosted in AWS Amplify, utilising AppSync with GraphQL and DynamoDB. The website is created with React Native with the plan to make it into a mobile App. I also have an admin website that uses React with Cognito for authentication."
       },
       {
         "title":"SnackBar Parking",
