@@ -78,7 +78,7 @@
         "category":"Entertainment",
         "image":"couchbuddyblog.jpg",
         "url":"https://www.couchbuddy.info/blog",
-        "description": "I used Contentful and integrated with their API for a CMS on blog of CouchBuddy.  I created multiple templates for differnet blog posts, some of them are interactive ."
+        "description": "I used Contentful and integrated with their API for a CMS.  I created multiple templates for differnet blog posts, some of them are interactive."
       },
       {
         "title":"Covid19 NSW",
