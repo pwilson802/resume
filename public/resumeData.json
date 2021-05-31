@@ -67,18 +67,25 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Covid19 NSW",
-        "category":"Health",
-        "image":"covid19.jpg",
-        "url":"https://covid19nsw.com",
-        "description": "I made this when the recent pandemic started. It is a Python Flask site running in an EC2 instance. Some pages include React for interactivity."
-      },
-      {
         "title":"Couch Buddy",
         "category":"Entertainment",
         "image":"couchbuddy.jpg",
         "url":"https://www.couchbuddy.info",
         "description": "This is built with NextJS and hosted in Vercel. There is also a backend Python component that refreshes the data daily, with data in AWS S3 and Cloudfront."
+      },
+      {
+        "title":"Couch Buddy Blog",
+        "category":"Entertainment",
+        "image":"couchbuddyblog.jpg",
+        "url":"https://www.couchbuddy.info/blog",
+        "description": "I used Contentful and integrated with their API for a CMS on blog of CouchBuddy.  I created multiple templates for differnet blog posts, some of them are interactive ."
+      },
+      {
+        "title":"Covid19 NSW",
+        "category":"Health",
+        "image":"covid19.jpg",
+        "url":"https://covid19nsw.com",
+        "description": "I made this when the recent pandemic started. It is a Python Flask site running in an EC2 instance. Some pages include React for interactivity."
       },
       {
         "title":"The General Quiz",
