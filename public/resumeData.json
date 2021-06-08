@@ -3,7 +3,7 @@
     "name":"Paul Wilson",
     "description":"Systems Engineer & Developer",
     "image":"profilepic.png",
-    "bio":"I am a systems engineer with over 10 years experience working in both private and public cloud.  I have a passion for building and working on the full stack of websites and applications.  Check out some of my skills and creations below.",
+    "bio":"I am a systems & cloud engineer with over 10 years experience working in both private and public cloud.  I have a passion for building and working on the full stack of websites and applications.  Check out some of my skills and creations below.",
     "email": "pwilson802@gmail.com"
   },
   "resume":{
@@ -47,6 +47,10 @@
       },
       {
         "name":"GIT",
+        "level":"60%"
+      },
+      {
+        "name":"Ansible",
         "level":"60%"
       },
       {
